@@ -1,4 +1,4 @@
-# :turtle: Turtle Marathon Game :turtle:
+# :turtle: Turtle Marathon Game :turtle: 
 
 
 ## About the Project
@@ -33,11 +33,11 @@ cd Turtle-Marathon-Game
 python main.py
 ```
 ## Gameplay
-- The player has to guess the color of the turtle that he/she thinks will cross the finish line first and win the race.
+- The player has to guess the color of the turtle that he/she thinks will cross the finish line :triangular_flag_on_post: first and win the race.
 >The color must me chosen only from the available color of turtles. If the user enters unavailable color, then the game terminates.
 
 ## Features
-- Interactive and User-Friendly Interface along with sound effects.
+- Interactive and User-Friendly Interface along with sound effects :sound:.
 - Enjoyable for players of all age groups.
 
 ## Contributors
